@@ -1,0 +1,61 @@
+FUNDAMENTAL SKILLS
+HTML
+Wondering what you need to know to get your first front-end development job? Here’s a
+detailed list of concepts you need to be familiar with.
+• Essential HTML elements (headings, paragraphs, anchors, images, etc)
+• Containers (div and span)
+• Semantic HTML5 elements (main, section, article, etc)
+• Lists (unordered, ordered and description lists)
+• Tables
+• Forms and input controls
+• Elements for embedding media (picture, video and audio)
+• HTML Validation
+CSS
+• Normalizing CSS
+• Selectors & pseudo-selectors
+• Selectors specificity
+• Essential CSS properties (color, padding, margin, border, shadow, etc)
+• The box model
+• Measurement units (px, %, em, rem, vw, vh, ch)
+• Positioning (absolute, relative, static, sticky, fixed)
+• Overflowing
+• Flex
+• Grids
+• Media queries
+Web Development
+• Styling font and text 
+• Embedding custom fonts 
+• Responsive images
+• CSS Sprites
+• Clipping
+• Filters 
+• SVG (Scalable Vector Graphics)
+• Icon fonts 
+• Transformations 
+• Transitions 
+• Animations 
+• Object-oriented CSS 
+• BEM naming convention
+JavaScript 
+• Variables and constants 
+• Arrays 
+• Objects 
+• Functions
+• Value and reference types
+• Operators
+• Conditional statements 
+• Loops 
+• Prototypes
+• Prototypical inheritance 
+• Classes 
+• Modules 
+• Arrow functions
+Web Development 
+• Spread operator
+• Restructuring
+• Callbacks
+• Promises
+• Async and await
+• Events
+• DOM 
+//Not my file just uploaded so everyone can see
